@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ticketingApp</string>
+    <string name="log_in">Log In</string>
+    <string name="pin_password_6_digit_number">PIN/Password (6-digit number)</string>
+    <string name="register_m_tix">Register m.tix</string>
+    <string name="forgot_pin_password">Forgot PIN/Password?</string>
+    <string name="once_you_have_received_otp_activation_code_n_through_sms">Once you have received OTP Activation code\n through SMS,</string>
+    <string name="please_activate_your_m_tix_here">Please activate your m.tix here.</string>
+</resources>
